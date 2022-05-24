@@ -14,8 +14,10 @@
 
 </pre>
 <pre>
-* I am a self taught Software Developer. I attended Oregon Statue Univerity & Lambda School's coding bootcamp and have since transitioned into a full time software developer.
-* I am an avid learner. I enjoy reading up on new technologies, being hands on with new technologies, collaberating with others, and being a professional nerd
+* I am a self taught Software Developer. I attended Oregon State Univerity & Lambda School's coding bootcamp and have 
+  since transitioned into a full time software developer.
+* I am an avid learner. I enjoy reading up on new technologies, being hands on with new technologies,
+  collaberating with others, and being a professional nerd
 </pre>
 
 **Languages & Tools**  
